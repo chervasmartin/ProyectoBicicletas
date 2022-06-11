@@ -1,0 +1,5 @@
+geopandas==0.10.2
+gmplot==1.4.1
+matplotlib==3.4.3
+selenium==4.0.0
+webdriver_manager==3.5.2
